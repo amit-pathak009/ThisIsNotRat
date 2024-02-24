@@ -3,6 +3,7 @@
 <p align="center">
 👀Control your windows computeur from telegram 👀
 
+i just made some changes to make it persistent all credits goes to original Creator
 
 <a href="https://ibb.co/SRWX61h"><img src="https://i.ibb.co/J50Rcbf/ideogram-15.jpg" alt="ideogram-15" border="0"></a>
 
